@@ -14,6 +14,6 @@ trees/
 
 ## Trees
 
-- [Binary Search Trees](./trees/binary-tree/binary-search-tree/notes.md)
-- [AVL Trees](./trees/binary-tree/avl-tree/notes.md)
-- [Red-Black Trees](./trees/binary-tree/red-black-tree/notes.md)
+- [Binary Search Trees](./trees/binary-tree/binary-search-tree)
+- [AVL Trees](./trees/binary-tree/avl-tree)
+- [Red-Black Trees](./trees/binary-tree/red-black-tree)
