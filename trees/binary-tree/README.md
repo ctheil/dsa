@@ -17,7 +17,7 @@
 
 ## Syntax
 
-```txt
+```mathematica
         |xx| <- Parent
    |xx| <-Uncle |Node|
 |xx| |xx|     |xx| |xx| <- Children (siblings to one another)
