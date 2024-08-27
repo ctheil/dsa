@@ -8,7 +8,7 @@
   2. On the left side of the tree everything is less-than the middle
   3. On the right side of the tree, everything is greater-than the middle
 
-```txt
+```mathematica
     <-- | -->
 x <     z     < y
 --->   / \   <---
@@ -22,7 +22,7 @@ Takes the height amount of the tree for searching
 
 *Example:*
 
-```txt
+```mathematica
         |20|
    |10|      |25|
 |03| |15|  |23| |27|
