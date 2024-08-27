@@ -21,7 +21,7 @@ Negative numbers indicate that a tree (or subtree) is *left-leaning*
 
 Positive numbers indicate that a tree (or subtree) is *right-leaning*
 
-```txt
+```mathematica
           0
         |xx| <- 2 - 2 = 0
         2  2
