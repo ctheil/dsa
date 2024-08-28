@@ -82,4 +82,4 @@ the first of which aims to rotate the tree to a point where either an
 
 ### What is the nodes have children?
 
-- As long as you follow the basic [BST rule](../README.md#bst-rules) (`x < z < y` or `left < center < right`)
+- As long as you follow the basic [BST rule](/src/trees/binary-tree/binary-search-tree/README.md#bst-rules) (`x < z < y` or `left < center < right`)
